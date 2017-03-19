@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489916259 source:d:\cppprojects\soniagraph\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
